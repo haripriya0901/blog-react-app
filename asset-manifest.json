@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/haripriya0901/blog-react-app/static/css/main.97182ca0.css",
+    "main.js": "/haripriya0901/blog-react-app/static/js/main.6dea0faf.js",
+    "index.html": "/haripriya0901/blog-react-app/index.html",
+    "main.97182ca0.css.map": "/haripriya0901/blog-react-app/static/css/main.97182ca0.css.map",
+    "main.6dea0faf.js.map": "/haripriya0901/blog-react-app/static/js/main.6dea0faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97182ca0.css",
+    "static/js/main.6dea0faf.js"
+  ]
+}
